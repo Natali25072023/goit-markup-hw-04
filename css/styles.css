@@ -305,7 +305,6 @@ li {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-
   display: flex;
 }
 .logo-header {
@@ -468,5 +467,5 @@ li {
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 }
