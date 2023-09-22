@@ -164,6 +164,7 @@ a {
   background-repeat: no-repeat;
   max-width: 1440px;
   margin: 0 auto;
+  background-position: center;
 }
 
 .main-btn {
@@ -223,7 +224,6 @@ a {
 .princeps {
   display: flex;
   gap: 24px;
-
   justify-content: center;
 }
 
@@ -328,6 +328,7 @@ li {
   font-family: Roboto;
   letter-spacing: 0.02em;
   max-width: 264px;
+  margin-bottom: 16px;
 }
 
 .footer {
@@ -371,6 +372,7 @@ li {
   display: flex;
   gap: 16px;
 }
+
 
 .social-list-item {
   justify-content: center;
@@ -455,6 +457,7 @@ li {
 }
 .footer-wrap {
   display: flex;
+  align-items: baseline;
 }
 .footer-logo {
   margin-right: 120px;
